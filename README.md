@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @logosur
 - 👀 I’m interested in improving developing skills and community contributions.
 - 🌱 I’m currently learning Symfony.
-- 💞️ I’m looking to collaborate on Symfony project and FOS.
+- 💞️ I’m looking to collaborate on Prestashop, Symfony projects and FOS.
 - 📫 How to reach me webmaster@logosur.com
 
 <!---
